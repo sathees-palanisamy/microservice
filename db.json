@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "firstName": "Rachel",
+      "lastName": "Green",
+      "email": "email1@gmail.com"
+    },
+    {
+      "id": "2",
+      "firstName": "Monica",
+      "lastName": "Geller",
+      "email": "email1@gmail.com"
+    },
+    {
+      "id": "3",
+      "firstName": "Chandler",
+      "lastName": "Bing",
+      "email": "email3D@gmail.com"
+    }
+  ],
+  "donation": [
+    {
+      "id": 1642992391903,
+      "userid": "1",
+      "amount": "10",
+      "tip": "10"
+    },
+    {
+      "id": 1643296641707,
+      "userid": "1",
+      "amount": "20",
+      "tip": "20"
+    },
+    {
+      "id": 1643296668304,
+      "userid": "1",
+      "amount": "30",
+      "tip": "30"
+    },
+    {
+      "id": 1643885080812,
+      "userid": "1",
+      "amount": "34",
+      "tip": "34"
+    },
+    {
+      "id": 1643885793974,
+      "userid": "1",
+      "amount": "35",
+      "tip": "35"
+    },
+    {
+      "id": 1643890653885,
+      "userid": "1",
+      "amount": "36",
+      "tip": "36"
+    }
+  ]
+}
